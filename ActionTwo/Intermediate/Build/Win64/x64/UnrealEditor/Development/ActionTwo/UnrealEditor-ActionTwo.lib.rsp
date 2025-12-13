@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ActionTwo.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\aiueo\Project\Project\ActionTest\ActionTwo\Intermediate\Build\Win64\x64\ActionTwoEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\aiueo\Project\Project\ActionTest\ActionTwo\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActionTwo\ActionTwo.init.gen.cpp.obj"
+"C:\Users\aiueo\Project\Project\ActionTest\ActionTwo\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActionTwo\ActionTwoCharacter.gen.cpp.obj"
+"C:\Users\aiueo\Project\Project\ActionTest\ActionTwo\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActionTwo\ActionTwoGameMode.gen.cpp.obj"
+"C:\Users\aiueo\Project\Project\ActionTest\ActionTwo\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActionTwo\ActionTwo.cpp.obj"
+"C:\Users\aiueo\Project\Project\ActionTest\ActionTwo\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActionTwo\ActionTwoCharacter.cpp.obj"
+"C:\Users\aiueo\Project\Project\ActionTest\ActionTwo\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActionTwo\ActionTwoGameMode.cpp.obj"
+"C:\Users\aiueo\Project\Project\ActionTest\ActionTwo\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActionTwo\Default.rc2.res"
+/OUT:"C:\Users\aiueo\Project\Project\ActionTest\ActionTwo\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActionTwo\UnrealEditor-ActionTwo.lib"

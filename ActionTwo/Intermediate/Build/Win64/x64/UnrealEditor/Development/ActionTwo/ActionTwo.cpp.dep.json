@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\aiueo\\project\\project\\actiontest\\actiontwo\\source\\actiontwo\\actiontwo.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\aiueo\\project\\project\\actiontest\\actiontwo\\intermediate\\build\\win64\\x64\\actiontwoeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\aiueo\\project\\project\\actiontest\\actiontwo\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\actiontwo\\definitions.actiontwo.h",
+            "c:\\users\\aiueo\\project\\project\\actiontest\\actiontwo\\source\\actiontwo\\actiontwo.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
