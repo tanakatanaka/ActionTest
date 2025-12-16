@@ -1,0 +1,74 @@
+[
+	{
+		"file": "E:\\boxx\\ActionTwo\\Source\\ActionTwo\\ActionTwo.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\boxx\\ActionTwo\\.vscode\\compileCommands_ActionTwo\\ActionTwo.1.rsp"
+		],
+		"directory": "D:\\ue_\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\boxx\\ActionTwo\\Source\\ActionTwo\\ActionTwo.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\boxx\\ActionTwo\\.vscode\\compileCommands_ActionTwo\\ActionTwo.1.rsp"
+		],
+		"directory": "D:\\ue_\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\boxx\\ActionTwo\\Source\\ActionTwo\\ActionTwo.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\boxx\\ActionTwo\\.vscode\\compileCommands_ActionTwo\\ActionTwo.1.rsp"
+		],
+		"directory": "D:\\ue_\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\boxx\\ActionTwo\\Source\\ActionTwo\\ActionTwoCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\boxx\\ActionTwo\\.vscode\\compileCommands_ActionTwo\\ActionTwo.1.rsp"
+		],
+		"directory": "D:\\ue_\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\boxx\\ActionTwo\\Source\\ActionTwo\\ActionTwoCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\boxx\\ActionTwo\\.vscode\\compileCommands_ActionTwo\\ActionTwo.1.rsp"
+		],
+		"directory": "D:\\ue_\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\boxx\\ActionTwo\\Source\\ActionTwo\\ActionTwoGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\boxx\\ActionTwo\\.vscode\\compileCommands_ActionTwo\\ActionTwo.1.rsp"
+		],
+		"directory": "D:\\ue_\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\boxx\\ActionTwo\\Source\\ActionTwo\\ActionTwoGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\boxx\\ActionTwo\\.vscode\\compileCommands_ActionTwo\\ActionTwo.1.rsp"
+		],
+		"directory": "D:\\ue_\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\boxx\\ActionTwo\\Source\\ActionTwo\\BossController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\boxx\\ActionTwo\\.vscode\\compileCommands_ActionTwo\\ActionTwo.1.rsp"
+		],
+		"directory": "D:\\ue_\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\boxx\\ActionTwo\\Source\\ActionTwo\\BossController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\boxx\\ActionTwo\\.vscode\\compileCommands_ActionTwo\\ActionTwo.1.rsp"
+		],
+		"directory": "D:\\ue_\\UE_5.3\\Engine\\Source"
+	}
+]
