@@ -70,5 +70,53 @@
 			"@E:\\boxx\\ActionTwo\\.vscode\\compileCommands_ActionTwo\\ActionTwo.1.rsp"
 		],
 		"directory": "D:\\ue_\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\boxx\\ActionTwo\\Source\\ActionTwo\\BulletActor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\boxx\\ActionTwo\\.vscode\\compileCommands_ActionTwo\\ActionTwo.1.rsp"
+		],
+		"directory": "D:\\ue_\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\boxx\\ActionTwo\\Source\\ActionTwo\\BulletActor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\boxx\\ActionTwo\\.vscode\\compileCommands_ActionTwo\\ActionTwo.1.rsp"
+		],
+		"directory": "D:\\ue_\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\boxx\\ActionTwo\\Source\\ActionTwo\\GunActor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\boxx\\ActionTwo\\.vscode\\compileCommands_ActionTwo\\ActionTwo.1.rsp"
+		],
+		"directory": "D:\\ue_\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\boxx\\ActionTwo\\Source\\ActionTwo\\GunActor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\boxx\\ActionTwo\\.vscode\\compileCommands_ActionTwo\\ActionTwo.1.rsp"
+		],
+		"directory": "D:\\ue_\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\boxx\\ActionTwo\\Source\\ActionTwo\\HitAreaActor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\boxx\\ActionTwo\\.vscode\\compileCommands_ActionTwo\\ActionTwo.1.rsp"
+		],
+		"directory": "D:\\ue_\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\boxx\\ActionTwo\\Source\\ActionTwo\\HitAreaActor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\boxx\\ActionTwo\\.vscode\\compileCommands_ActionTwo\\ActionTwo.1.rsp"
+		],
+		"directory": "D:\\ue_\\UE_5.3\\Engine\\Source"
 	}
 ]
